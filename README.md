@@ -1,4 +1,4 @@
-# Pasión en el desierto
+# Pasión en el desierto, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Pasión en el desierto |
+| **Title** | Pasión en el desierto, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-el-desierto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Pasión en el desierto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-el-desierto/) |
+| **Get License** | [Request Licensing for Pasión en el desierto, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-el-desierto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ella tiene el fuego que quema en la oscuridad
+> Dime si esta noche nos perdemos en la ciudad
+> Un beso lento que me quita la gravedad
+> Tú eres mi locura, mi única verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `0a724abc0680a61cdcd2cd8cfc49a7643c6c16be41ea6d754b7c6a12d8a75ad9` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
